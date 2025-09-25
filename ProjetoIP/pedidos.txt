@@ -1,0 +1,19 @@
+[1m--------------------------------------------------
+[1m[38;5;208mCliente: [m Ryevilin
+[1m[38;5;208mTelefone: [m (83) 95566-7788
+[1m[38;5;208mHorário: [m 17:00
+[1m[38;5;208mData: [m 03/10/2025
+[1m[38;5;208mEndereço: [m 
+[1m[38;5;208mForma de Pagamento:[m  Cartão
+[1m[38;5;208mPedidos:[m
+[1m[33m  - Pastel Salgado - Unidades: 25
+[1m[33m  - Pastel Doce - Unidades: 10
+[1m[33m  - Coxinha - Unidades: 15
+[1m[33m  - Croquete de carne - Unidades: 10
+[1m[33m  - Bolinha de queijo - Unidades: 10
+[1m[33m  - Mini frangote - Unidades: 10
+[1m[33m  - Croquete de carne - Unidades: 10
+[1m[38;5;208mTotal de salgados:[33m  90  [m
+[1m[38;5;208mValor Final: [32m  R$67.02  [m
+[1m--------------------------------------------------
+--------------------------------------------------
